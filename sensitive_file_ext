@@ -1,0 +1,16 @@
+list ext:
+.zip
+.bak
+.sql
+.txt
+.php
+.config
+.csv
+.pdf
+.backup
+.git
+.gitignore
+.log
+.xml
+.json 
+.env
