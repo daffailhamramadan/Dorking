@@ -1,0 +1,6 @@
+site:target.com inurl:'@gmail.com'
+site:target.com inurl:'@yahoo.com'
+site:target.com inurl:'@hotmail.com'
+site:target.com inurl:'@msn.com'
+site:target.com inurl:'e=' 'refer'
+site:target.com inurl:'tellapal.id'
