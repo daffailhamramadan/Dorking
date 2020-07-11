@@ -8,4 +8,6 @@ Thanks to @trbughunters for SSRF dorks: https://twitter.com/trbughunters/status/
 
 Thanks to @trbughunters for XSS dorks:https://twitter.com/trbughunters/status/1276851918946603013
 
-Thanos to @trbughunters for SQLI dorks: https://twitter.com/trbughunters/status/1278834653605044224
+Thanks to @trbughunters for SQLI dorks: https://twitter.com/trbughunters/status/1278834653605044224
+
+Thanks to @trbughunters for LFI dorks: https://twitter.com/trbughunters/status/1279768631845494787
